@@ -1,0 +1,16 @@
+C:\Users\evgeny.savin\source\repos\Test\Test\obj\Debug\netcoreapp2.2\Test.csprojAssemblyReference.cache
+C:\Users\evgeny.savin\source\repos\Test\Test\obj\Debug\netcoreapp2.2\Test.csproj.CoreCompileInputs.cache
+C:\Users\evgeny.savin\source\repos\Test\Test\obj\Debug\netcoreapp2.2\Test.RazorAssemblyInfo.cache
+C:\Users\evgeny.savin\source\repos\Test\Test\obj\Debug\netcoreapp2.2\Test.RazorAssemblyInfo.cs
+C:\Users\evgeny.savin\source\repos\Test\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfoInputs.cache
+C:\Users\evgeny.savin\source\repos\Test\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfo.cs
+C:\Users\evgeny.savin\source\repos\Test\Test\bin\Debug\netcoreapp2.2\Test.deps.json
+C:\Users\evgeny.savin\source\repos\Test\Test\bin\Debug\netcoreapp2.2\Test.runtimeconfig.json
+C:\Users\evgeny.savin\source\repos\Test\Test\bin\Debug\netcoreapp2.2\Test.runtimeconfig.dev.json
+C:\Users\evgeny.savin\source\repos\Test\Test\bin\Debug\netcoreapp2.2\Test.dll
+C:\Users\evgeny.savin\source\repos\Test\Test\bin\Debug\netcoreapp2.2\Test.pdb
+C:\Users\evgeny.savin\source\repos\Test\Test\obj\Debug\netcoreapp2.2\Test.RazorTargetAssemblyInfo.cache
+C:\Users\evgeny.savin\source\repos\Test\Test\obj\Debug\netcoreapp2.2\Test.dll
+C:\Users\evgeny.savin\source\repos\Test\Test\obj\Debug\netcoreapp2.2\Test.pdb
+C:\Users\evgeny.savin\source\repos\Test\Test\bin\Debug\netcoreapp2.2\Test.Views.dll
+C:\Users\evgeny.savin\source\repos\Test\Test\obj\Debug\netcoreapp2.2\Test.csproj.CopyComplete
